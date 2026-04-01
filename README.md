@@ -160,16 +160,15 @@ Launches the test runner.
 - Dark mode toggle
 -  Progressive Web App
 
-## License
-
-This project is open source and available under the MIT License.
-
-## Author
 
 ## Assignment Information
 
-
 **Title:** To-Do List Application (React JS)
+
+
+## License
+
+This project is open source and available under the MIT License.
 
 ## Author
 
