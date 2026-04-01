@@ -166,4 +166,11 @@ This project is open source and available under the MIT License.
 
 ## Author
 
-Created as part of React JS Assignment 3 - To-Do List Application (React JS)
+## Assignment Information
+
+
+**Title:** To-Do List Application (React JS)
+
+## Author
+
+Eissa Iqbal
